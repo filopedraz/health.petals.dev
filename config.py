@@ -28,4 +28,4 @@ MODELS = [
     ),
 ]
 
-UPDATE_PERIOD = 1
+UPDATE_PERIOD = 15
